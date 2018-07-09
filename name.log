@@ -1,0 +1,227 @@
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: 12*x+13*x^3+25*x+42*x^2 result: x*(13*x**2 + 42*x + 37)
+INFO:root:
+levelname: INFO message: equation: x result: x
+INFO:root:
+levelname: INFO message: equation: x result: x
+INFO:root:
+levelname: INFO message: equation: x result: x
+INFO:root:
+levelname: INFO message: equation: s
+weq
+sads
+ result: sweqsads
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: s
+ result: s
+INFO:root:
+levelname: INFO message: equation: weq
+ result: weq
+INFO:root:
+levelname: INFO message: equation: sads
+ result: sads
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: s
+ result: s
+INFO:root:
+levelname: INFO message: equation: weq
+ result: weq
+INFO:root:
+levelname: INFO message: equation: sads
+ result: sads
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: s
+ result: s
+INFO:root:
+levelname: INFO message: equation: weq
+ result: weq
+INFO:root:
+levelname: INFO message: equation: sads
+ result: sads
+INFO:root:
+levelname: INFO message: equation: 3231
+ result: 3231
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: s
+ result: s
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: 5*x^3+2*x^2+100 result: 5*x**3 + 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: 5*x^3+2*x^2+100 result: 5*x**3 + 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: 5*x^3+2*x^2+100 result: 5*x**3 + 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x
+ result: x
+INFO:root:
+levelname: INFO message: equation: 5*x^3+2*x^2+100 result: 5*x**3 + 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x^2+100
+ result: 2*x**2 + 100
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 50*x
+ result: 50*x
+INFO:root:
+levelname: INFO message: equation: 545/x+75
+ result: 75 + 545/x
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 50*x
+ result: 50*x
+INFO:root:
+levelname: INFO message: equation: 545/x
+ result: 545/x
+INFO:root:
+levelname: INFO message: equation: x+100
+ result: x + 100
+INFO:root:
+levelname: INFO message: equation: 50*x
+ result: 50*x
+INFO:root:
+levelname: INFO message: equation: 100/x
+ result: 100/x
+INFO:root:
+levelname: INFO message: equation: 1/x
+ result: 1/x
+INFO:root:
+levelname: INFO message: equation: 1/x
+ result: 1/x
+INFO:root:
+levelname: INFO message: equation: 1/x
+ result: 1/x
+INFO:root:
+levelname: INFO message: equation: 10/x
+ result: 10/x
+INFO:root:
+levelname: INFO message: equation: 100/x
+ result: 100/x
+INFO:root:
+levelname: INFO message: equation: x result: x
+INFO:root:
+levelname: INFO message: equation: x result: x
+INFO:root:
+levelname: INFO message: equation: 2*x+100 result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x+100 result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x+100 result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x+100
+ result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 5*x+350 result: 5*x + 350
+INFO:root:
+levelname: INFO message: equation: 2*x+100
+ result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 2*x+100
+ result: 2*x + 100
+INFO:root:
+levelname: INFO message: equation: 5*x+350 result: 5*x + 350
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: x^2-1 result: x**2 - 1
+INFO:root:
+levelname: INFO message: equation: werwerwewe result: werwerwewe
+INFO:root:
+levelname: INFO message: equation: werwerwewe result: werwerwewe
+INFO:root:
+levelname: INFO message: equation: x^2+1 result: x**2 + 1
+INFO:root:
+levelname: INFO message: equation: x^2+1 result: x**2 + 1
+INFO:root:
+levelname: INFO message: equation: x^2+1 result: x**2 + 1
