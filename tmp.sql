@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1
--- Время создания: Июл 10 2018 г., 19:05
+-- Время создания: Июл 10 2018 г., 20:51
 -- Версия сервера: 10.1.32-MariaDB
 -- Версия PHP: 5.6.36
 
@@ -28,11 +28,11 @@ DELIMITER $$
 --
 -- Процедуры
 --
-CREATE DEFINER=`root`@`localhost` PROCEDURE `set_logs` (IN `myResult` VARCHAR(255), IN `myTime` VARCHAR(255))  NO SQL
+CREATE DEFINER=`root`@`localhost` PROCEDURE `set_logs` (IN `myResult` VARCHAR(255), IN `tmpData` VARCHAR(255), IN `myTime` VARCHAR(255))  NO SQL
 BEGIN
 set @tmpId := 0; 
 
-select id into @tmpId from self WHERE desition = myResult;
+select id into @tmpId from self WHERE equation = tmpData;
 
 INSERT INTO logs_db(id, time, result) VALUES(@tmpId, myTime, myResult);
 END$$
@@ -71,12 +71,6 @@ CREATE TABLE `self` (
 --
 
 --
--- Индексы таблицы `logs_db`
---
-ALTER TABLE `logs_db`
-  ADD KEY `id` (`id`);
-
---
 -- Индексы таблицы `self`
 --
 ALTER TABLE `self`
@@ -92,7 +86,7 @@ ALTER TABLE `self`
 -- AUTO_INCREMENT для таблицы `self`
 --
 ALTER TABLE `self`
-  MODIFY `id` int(9) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=46;
+  MODIFY `id` int(9) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=83;
 
 --
 -- Ограничения внешнего ключа сохраненных таблиц
