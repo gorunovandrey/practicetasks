@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.8.1
+-- version 4.8.0.1
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1
--- Время создания: Июл 09 2018 г., 23:33
--- Версия сервера: 10.1.33-MariaDB
--- Версия PHP: 7.2.6
+-- Время создания: Июл 10 2018 г., 19:05
+-- Версия сервера: 10.1.32-MariaDB
+-- Версия PHP: 5.6.36
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -81,7 +81,8 @@ ALTER TABLE `logs_db`
 --
 ALTER TABLE `self`
   ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `equation` (`equation`);
+  ADD UNIQUE KEY `equation` (`equation`),
+  ADD UNIQUE KEY `equation_2` (`equation`);
 
 --
 -- AUTO_INCREMENT для сохранённых таблиц
@@ -91,7 +92,7 @@ ALTER TABLE `self`
 -- AUTO_INCREMENT для таблицы `self`
 --
 ALTER TABLE `self`
-  MODIFY `id` int(9) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(9) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=46;
 
 --
 -- Ограничения внешнего ключа сохраненных таблиц

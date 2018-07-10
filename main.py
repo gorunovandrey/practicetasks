@@ -12,6 +12,7 @@ curTime = datetime.datetime.now().timestamp()
 try:
     handle = open("test.txt", "r")
     for line in handle:
+
         if len(line) != 0:
             data = line
             print(data)
